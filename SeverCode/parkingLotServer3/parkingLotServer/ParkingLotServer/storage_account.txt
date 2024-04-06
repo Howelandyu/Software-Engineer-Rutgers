@@ -1,0 +1,7 @@
+aaa,,xxx,,1
+A,ABC,A,A,0
+ggh223,jack123,hhh@163.com,haoranyu,0
+xxx,xxx,xxxaaa,xxx,0
+admin,admin,1,1,1
+aaa111,bbb222,harry,kkk@555.com,0
+jjj111,jack,jjj222@ggg.com,jack,1
